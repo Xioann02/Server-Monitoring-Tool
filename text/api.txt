@@ -1,0 +1,68 @@
+[{
+                                "apiStatus": {
+                                    "pendingLeads": 0,
+                                    "duplicate": 0,
+                                    "failedLeads": 0,
+                                    "executedLeads": {
+                                        "firstAttempt": 6496,
+                                        "telesales": 6496
+                                    }, 
+                                     "totalLeads": {
+                                        "today": 109,
+                                        "lastWeek": 84
+                                    }
+                                },
+                                "apiRecord": {
+                                    "average": 170,
+                                    "percentage": 45,
+                                    "record": {
+                                        "min": 5,
+                                        "max": 435
+                                    }
+                                }
+                            },{
+                                "apiStatus": {
+                                    "pendingLeads": 3,
+                                    "duplicate": 1,
+                                    "failedLeads": 1,
+                                    "executedLeads": {
+                                        "firstAttempt": 6496,
+                                        "telesales": 6496
+                                    }, 
+                                     "totalLeads": {
+                                        "today": 106,
+                                        "lastWeek": 77
+                                    }
+                                },
+                                "apiRecord": {
+                                    "average": 50,
+                                    "percentage": 40,
+                                    "record": {
+                                        "min": 5,
+                                        "max": 305
+                                    }
+                                }
+                            },
+                            {
+                                "apiStatus": {
+                                    "pendingLeads": 1,
+                                    "duplicate": 2,
+                                    "failedLeads": 3,
+                                    "executedLeads": {
+                                        "firstAttempt": 4000,
+                                        "telesales": 4000
+                                    }, 
+                                     "totalLeads": {
+                                        "today": 149,
+                                        "lastWeek": 10
+                                    }
+                                },
+                                "apiRecord": {
+                                    "average": 170,
+                                    "percentage": 25,
+                                    "record": {
+                                        "min": 10,
+                                        "max": 435
+                                    }
+                                }
+                            }]

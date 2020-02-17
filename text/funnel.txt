@@ -1,0 +1,68 @@
+[{
+                            "funnelStatus": {
+                                "pendingLeads": 0,
+                                "duplicate": 0,
+                                "failedLeads": 0,
+                                "executedLeads": {
+                                    "firstAttempt": 4000,
+                                    "telesales": 4000
+                                },
+                                "totalLeads": {
+                                    "today": 109,
+                                    "lastWeek": 84
+                                }
+                            },
+                            "funnelRecord": {
+                                "average": 170,
+                                "percentage": 45,
+                                "record": {
+                                    "min": 5,
+                                    "max": 200
+                                }
+                            }
+                            },{
+                            "funnelStatus": {
+                                "pendingLeads": 2,
+                                "duplicate": 1,
+                                "failedLeads": 1,
+                                "executedLeads": {
+                                    "firstAttempt": 230,
+                                    "telesales": 6496
+                                },
+                                "totalLeads": {
+                                    "today": 109,
+                                    "lastWeek": 53
+                                }
+                            },
+                            "funnelRecord": {
+                                "average": 100,
+                                "percentage": 45,
+                                "record": {
+                                    "min": 5,
+                                    "max": 300
+                                }
+                            }
+                            },
+                            {
+                                "funnelStatus": {
+                                    "pendingLeads": 0,
+                                    "duplicate": 0,
+                                    "failedLeads": 0,
+                                    "executedLeads": {
+                                        "firstAttempt": 5000,
+                                        "telesales": 5600
+                                    },
+                                    "totalLeads": {
+                                        "today": 105,
+                                        "lastWeek": 99
+                                    }
+                                },
+                                "funnelRecord": {
+                                    "average": 130,
+                                    "percentage": 20,
+                                    "record": {
+                                        "min": 4,
+                                        "max": 300
+                                    }
+                                }
+                                }]

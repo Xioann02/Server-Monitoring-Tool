@@ -1,0 +1,68 @@
+[{
+                                "c2cStatus": {
+                                    "pendingLeads": 1,
+                                    "duplicate": 1,
+                                    "failedLeads": 2,
+                                    "executedLeads": {
+                                        "firstAttempt": 5000,
+                                        "telesales": 5000
+                                    },
+                                    "totalLeads": {
+                                        "today": 109,
+                                        "lastWeek": 54
+                                    }
+                                },
+                                "c2cRecord": {
+                                    "average": 170,
+                                    "percentage": 45,
+                                    "record": {
+                                        "min": 5,
+                                        "max": 435
+                                    }
+                                }
+                            },{
+                                "c2cStatus": {
+                                    "pendingLeads": 1,
+                                    "duplicate": 3,
+                                    "failedLeads": 2,
+                                    "executedLeads": {
+                                        "firstAttempt": 2000,
+                                        "telesales": 2000
+                                    },
+                                    "totalLeads": {
+                                        "today": 109,
+                                        "lastWeek": 84
+                                    }
+                                },
+                                "c2cRecord": {
+                                    "average": 170,
+                                    "percentage": 45,
+                                    "record": {
+                                        "min": 5,
+                                        "max": 435
+                                    }
+                                }
+                            },
+                            {
+                                "c2cStatus": {
+                                    "pendingLeads": 0,
+                                    "duplicate": 0,
+                                    "failedLeads": 2,
+                                    "executedLeads": {
+                                        "firstAttempt": 5000,
+                                        "telesales": 5000
+                                    },
+                                    "totalLeads": {
+                                        "today": 109,
+                                        "lastWeek": 54
+                                    }
+                                },
+                                "c2cRecord": {
+                                    "average": 170,
+                                    "percentage": 45,
+                                    "record": {
+                                        "min": 5,
+                                        "max": 435
+                                    }
+                                }
+                            }]

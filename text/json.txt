@@ -1,0 +1,64 @@
+[{
+        "name": "Server A",
+        "status": "Online",
+        "lastRefresh": "2020-02-06 15:14:46",
+        "connectorConsoleLog": [
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}"
+        ],
+        "phpErrorLog": [
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}"
+        ]
+    }, {
+        "name": "Server B",
+        "status": "Offline",
+        "lastRefresh": "2010-02-06 15:14:46",
+        "connectorConsoleLog": [
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}"
+
+        ],
+        "phpErrorLog": [
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}"
+        ]
+    },
+    {
+        "name": "Server C",
+        "status": "Online",
+        "lastRefresh": "2008-02-06 15:14:46",
+        "connectorConsoleLog": [
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}"
+        ],
+        "phpErrorLog": [
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}",
+            "[API] [2020-02-06 12:38:53] Lead from MarketingPunch has been processed with success in 3_First_Attemp {%jos%}"
+        ]
+    }
+]

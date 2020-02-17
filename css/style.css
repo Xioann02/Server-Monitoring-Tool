@@ -1,0 +1,115 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background: #fafafa;
+    overflow-x: auto;
+}
+
+.number {
+    width: 4% !important;
+    color: #7171c2 !important;
+    font-weight: bold;
+}
+
+.column1 {
+    width: 15%;
+    text-align: center;
+}
+
+.online {
+    width: 70px;
+    background: #37c337;
+    border-radius: 3px;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    DISPLAY: block;
+    margin: auto;
+}
+
+.table100-body td {
+    padding-top: 26px;
+    padding-bottom: 26px;
+}
+
+.offline {
+    background: #ff5959;
+    width: 70px;
+    border-radius: 3px;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    DISPLAY: block;
+    margin: auto;
+}
+
+.table100-head th {
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+
+.table100.ver1 th {
+    font-size: 15px;
+    color: #838282;
+    line-height: 1;
+    border-bottom: solid 1px #ececec;
+    background-color: #ffffff;
+}
+
+.table100.ver1 .table100-body tr:nth-child(even) {
+    background-color: #f8f8f8;
+}
+
+.table100-body {
+    max-height: 75vh;
+}
+
+.row100:hover {
+    background-color: #f8f8f8;
+}
+
+.title {
+    padding: 30px;
+    padding-bottom: 0px;
+    font-size: 20px;
+    color: #262626;
+    letter-spacing: 2px;
+    display: inline-block;
+}
+
+.verisure-logo {
+    display: inline-block;
+    width: 100px;
+    padding-left: 40px;
+}
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.table100-body {
+    margin-top: 30px;
+}
+
+.refresh-button {
+    float: right;
+    background: #e8e8e8;
+    border-radius: 5px;
+    padding: 6px;
+    font-size: 13px;
+    color: #707070;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.refresh-button:hover {
+    background: #eaeaea;
+}
